@@ -1,0 +1,16 @@
+:root {
+  --primary-color: #6D4D98;
+  --secondary-color: #98934D;
+  --tertiary-color: #52984D;
+  --primary-font-family: 'Montserrat', sans-serif;
+}
+
+.container{
+  max-width: 100rem;
+  margin-inline: auto;
+  padding: 2em
+}
+
+.card-display{
+  display: inline-block;
+}
